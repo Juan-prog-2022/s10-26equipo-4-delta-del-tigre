@@ -1,0 +1,8 @@
+# ---- Secretos: lo mas importante de este archivo ----
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+secrets/
+db.txt
