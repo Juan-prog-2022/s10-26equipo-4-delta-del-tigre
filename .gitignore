@@ -6,3 +6,4 @@
 *.key
 secrets/
 db.txt
+*.log
